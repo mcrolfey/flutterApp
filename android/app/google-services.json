@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "95266355719",
+    "project_id": "chemai-aplus-fbasemulti-cac64",
+    "storage_bucket": "chemai-aplus-fbasemulti-cac64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95266355719:android:0cff201110a719749308a2",
+        "android_client_info": {
+          "package_name": "com.example.fbase_multi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95266355719-aq1hjk9rhp246vu8j8uf19infjpv9chm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2NehWWSSA3xTroFfQrjgw8q6qGDKBT7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95266355719-aq1hjk9rhp246vu8j8uf19infjpv9chm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95266355719:android:03b049b4eff903159308a2",
+        "android_client_info": {
+          "package_name": "com.example.fbase_multi3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95266355719-aq1hjk9rhp246vu8j8uf19infjpv9chm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2NehWWSSA3xTroFfQrjgw8q6qGDKBT7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95266355719-aq1hjk9rhp246vu8j8uf19infjpv9chm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
